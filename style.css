@@ -14,7 +14,7 @@ html {
 
 body {
   margin: 0;
-  background: url("./foggy-night.jpg");
+  background: url("assets/foggy-night.jpg");
   background-size: cover;
   background-position: 50% 60%;
   background-attachment: fixed;
