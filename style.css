@@ -1,4 +1,4 @@
-/* Trees Image - Pexels: https://www.pexels.com/photo/photo-of-trees-in-forest-3801030/ */
+
 @import url("https://fonts.googleapis.com/css?family=Quicksand&display=swap");
 
 html {
@@ -14,7 +14,7 @@ html {
 
 body {
   margin: 0;
-  background: url("assets/foggy-night.jpg");
+  background: url("assets/climb.jpg");
   background-size: cover;
   background-position: 50% 60%;
   background-attachment: fixed;
