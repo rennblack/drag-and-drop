@@ -35,7 +35,7 @@ function getSavedColumns() {
     backlogListArray = ['Release the app', 'Relax'];
     progressListArray = ['Work on function', 'Listen to music'];
     completeListArray = ['Meditate', 'Fix  API'];
-    onHoldListArray = ['Go for a run'];
+    onHoldListArray = ['Go for a walk'];
   }
 }
 
